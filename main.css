@@ -1,0 +1,68 @@
+body {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.container {
+    background: aliceblue;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 591px;
+    height: 161px;
+    top: 97px;
+    left: 425px;
+    border: 1px
+}
+
+.content-twitter {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+#image-logo {
+    margin-top: 12px;
+}
+
+.title-twitter {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.title-and-writing {
+    margin: 12px;
+}
+
+title-and-writing p {
+    margin-top: 5px;
+}
+
+.title-twitter p,
+img {
+    color: #536471;
+    margin: 3px;
+}
+
+.title-twitter h1 {
+    color: #0F1419;
+    font-weight: 700;
+    margin-right: 3px;
+}
+
+
+/*Share*/
+
+.container-share {
+    display: flex;
+    justify-content: space-around;
+    margin-left: 99px;
+    margin-right: 48px;
+}
+
+.itens-container-share {
+    display: flex;
+    align-items: center;
+}
