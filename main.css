@@ -58,8 +58,8 @@ img {
 .container-share {
     display: flex;
     justify-content: space-around;
-    margin-left: 99px;
-    margin-right: 48px;
+    margin-left: 58px;
+    margin-right: 5px;
 }
 
 .itens-container-share {
